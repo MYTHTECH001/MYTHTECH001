@@ -1,53 +1,45 @@
 <div align="center">
 
-<!-- Modern Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUGGAC3P4Jy/giphy.gif" width="280px" alt="Coding GIF" />
+<img src="https://media.giphy.com/media/qgQUGGAC3P4Jy/giphy.gif" width="320px" />
 
-# Hi there, I'm MYTHTECH001 👋
+# 👋 Hey, I'm MYTHTECH001
 
-<!-- Animated Typing Effect -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-stack+Tinkerer+%26+Builder;Open-source+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Product+Builder;Mobile+%26+Web+Developer;Turning+Ideas+Into+Reality;Always+Learning+%7C+Always+Building" />
 
-<p><i>Full-stack tinkerer, developer, and open-source enthusiast.<br>Passionate about neat design and building software that matters.</i></p>
+<br>
+
+<p>
+💻 Full-stack developer building modern applications.<br>
+🚀 Interested in software engineering, product design, and creating useful technology.<br>
+🎨 Focused on clean code, great experiences, and solving real problems.
+</p>
 
 </div>
 
 ---
 
-### 🛠️ Tech & Tools
+# 🧑‍💻 About Me
 
-<!-- Sleek modern icons updated to match your stack -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,express,git,c,cpp,vscode&perline=6" alt="Tech Stack" />
-  </a>
-</p>
+```javascript
+const mythtech = {
+    username: "MYTHTECH001",
 
----
+    role: "Full-Stack Developer",
 
-### 📈 GitHub Stats
+    interests: [
+        "Web Development",
+        "Mobile Applications",
+        "UI/UX Design",
+        "Software Engineering",
+        "Product Building"
+    ],
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MYTHTECH001&show_icons=true&theme=dark" alt="MYTHTECH001's GitHub stats" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYTHTECH001&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+    mindset: "Build → Learn → Improve → Repeat",
 
----
-
-### 📂 Featured / Recent Work
-* **[cozy-intentions](https://github.com/MYTHTECH001/cozy-intentions)** - Exploring intentional software design and cozy user experiences.
-
----
-
-### 📫 Connect with Me
-- 📧 **Email:** sehajpalsingh360@gmail.com
-- 💻 **GitHub:** [@MYTHTECH001](https://github.com/MYTHTECH001)
-
----
-
-<p align="center">
-  <i>"Building cool things with code. Always learning, always shipping."</i> ✨
-</p>
+    currentlyLearning: [
+        "Advanced React",
+        "Backend Architecture",
+        "Cloud Development",
+        "System Design"
+    ]
+};
