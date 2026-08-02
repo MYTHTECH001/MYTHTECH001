@@ -1,16 +1,16 @@
 <div align="center">
 
-  <!-- Animated Banner / Sticker -->
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4Jy/giphy.gif" width="280px" alt="Coding GIF" />
+<!-- Modern Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUGGAC3P4Jy/giphy.gif" width="280px" alt="Coding GIF" />
 
-  # Hi there, I'm MYTHTECH001 👋
+# Hi there, I'm MYTHTECH001 👋
 
-  <!-- Typing SVG Effect -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-stack+Tinkerer+%26+Builder;Open-source+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
-  </a>
+<!-- Animated Typing Effect -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Full-stack+Tinkerer+%26+Builder;Open-source+Enthusiast;Always+Learning%2C+Always+Shipping" alt="Typing SVG" />
+</a>
 
-  <p><i>Full-stack tinkerer, developer, and open-source enthusiast.<br>Passionate about neat design and building software that matters.</i></p>
+<p><i>Full-stack tinkerer, developer, and open-source enthusiast.<br>Passionate about neat design and building software that matters.</i></p>
 
 </div>
 
@@ -18,10 +18,10 @@
 
 ### 🛠️ Tech & Tools
 
-<!-- Modern Skill Icons -->
+<!-- Sleek modern icons updated to match your stack -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,express,git,github,vscode&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,nodejs,express,git,c,cpp,vscode&perline=6" alt="Tech Stack" />
   </a>
 </p>
 
