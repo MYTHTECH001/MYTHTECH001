@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm MYTHTECH001 👋
 
-<!--
-**theprogamerthepro234/theprogamerthepro234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Full-stack tinkerer, developer, and open-source enthusiast. Passionate about neat design and building software that matters.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech & Tools
+- **Languages:** JavaScript, TypeScript, Python, HTML/CSS
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📂 Featured / Recent Work
+* **[cozy-intentions](#)** - Exploring intentional software design and cozy user experiences.
+
+---
+
+### 📫 Connect with Me
+- **Email:** [sehajpalsingh360@gmail.com](mailto:sehajpalsingh360@gmail.com)
+- **GitHub:** [@theprogamerthepro234](https://github.com/theprogamerthepro234)
+
+---
+
+<p align="center">
+  <i>"Building cool things with code. Always learning, always shipping."</i> ✨
+</p>
