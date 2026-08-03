@@ -1,161 +1,37 @@
-<div align="center">
+# ☕ Hey there, I'm MYTHTECH001! 👋
 
-<img src="https://media.giphy.com/media/qgQUGGAC3P4Jy/giphy.gif" width="300"/>
+> *"Turning ideas into software, one project at a time."*
 
-# ☕ MYTHTECH001
-
-### `Developer • Builder • Creator`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+digital+experiences;Creating+apps+from+ideas;Learning+%7C+Building+%7C+Growing;Welcome+to+my+workspace" />
-
-<br>
-
-> "Turning ideas into software, one project at a time."
-
-</div>
+I'm a **Full-Stack Developer** passionate about open-source software, clean UI/UX design, and building tools that make a real difference.
 
 ---
 
-## 🌙 About Me
-
-Welcome to my digital workspace.
-
-I'm a developer who enjoys creating software that is:
-
-* ✨ Simple
-* 🎨 Beautiful
-* ⚡ Useful
-* 🌱 Human-focused
-
-I spend my time exploring new technologies, designing interfaces, and building projects that solve real problems.
+### 💡 What I Do
+* **Web & Mobile Applications:** Crafting responsive, performant, and intuitive applications.
+* **UI/UX & Product Design:** Bridging the gap between beautiful aesthetics and practical functionality.
+* **Continuous Learning:** Deepening knowledge in Advanced React, Backend Architecture, and Cloud Infrastructure.
 
 ---
 
-## 🖥️ My Setup
+### 🚀 Featured Projects
 
-```yaml
-name: MYTHTECH001
-role: Full-Stack Developer
-
-focus:
-  - Web Applications
-  - Mobile Apps
-  - UI/UX Design
-  - Product Development
-
-currently_learning:
-  - Advanced React
-  - Backend Systems
-  - Cloud Technologies
-```
+* **🏠 Cozy** — A calm, intentional software experience designed around modern interfaces and seamless user interactions.
+* **🍽️ Sehaj Platform** — Tailored business solutions and digital ordering systems built for real-world operations.
+* **📚 Study Buddy** — A streamlined productivity application designed to make learning organized and engaging.
 
 ---
 
-## 🛠️ Technologies I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,firebase,html,css,git,vscode&perline=6"/>
-
-</div>
+### 🛠️ Tech Stack & Skills
+* **Frontend:** React, JavaScript / TypeScript, HTML5, CSS3, UI/UX Design
+* **Backend & Cloud:** Node.js, Database Systems, Cloud Technologies
+* **Tools:** Git, GitHub, VS Code
 
 ---
 
-# 🚀 Featured Projects
-
-## 🏠 Cozy
-
-A calm and intentional software experience.
-
-Focused on:
-
-* Modern interfaces
-* Better user experiences
-* Simple interactions
+### 📫 Get in Touch
+* **Email:** [sehajpalsingh360@gmail.com](mailto:sehajpalsingh360@gmail.com)
+* **GitHub:** [MYTHTECH001](https://github.com/MYTHTECH001)
 
 ---
 
-## 🍽️ Sehaj Platform
-
-Technology built around real-world business needs.
-
-Exploring:
-
-* Customer experiences
-* Digital ordering
-* Business tools
-
----
-
-## 📚 Study Buddy
-
-A productivity project designed to make learning easier.
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MYTHTECH001&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MYTHTECH001&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌱 Currently Building
-
-```
-Ideas
-  ↓
-Design
-  ↓
-Code
-  ↓
-Testing
-  ↓
-Real Users
-```
-
-Building products, improving skills, and learning every day.
-
----
-
-# 🎧 Coding Mood
-
-```
-☕ Coffee
-🎧 Music
-💻 Code
-🌙 Late-night ideas
-```
-
----
-
-# 📫 Find Me
-
-<div align="center">
-
-📧 [sehajpalsingh360@gmail.com](mailto:sehajpalsingh360@gmail.com)
-
-<br>
-
-🐙 github.com/MYTHTECH001
-
-</div>
-
----
-
-<div align="center">
-
-## Thanks for visiting ☕
-
-A small corner of the internet where ideas become code.
-
-⭐ Build something meaningful.
-
-</div>
+⭐ *Build something meaningful.*
