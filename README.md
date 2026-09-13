@@ -29,8 +29,10 @@ I'm a **Full-Stack Developer** passionate about open-source software, clean UI/U
 ---
 
 ### 📫 Get in Touch
+
 * **Email:** [sehajpalsingh360@gmail.com](mailto:sehajpalsingh360@gmail.com)
 * **GitHub:** [MYTHTECH001](https://github.com/MYTHTECH001)
+* **Website:** [mythtech-001-website.vercel.app](https://mythtech-001-website.vercel.app/)
 
 ---
 
